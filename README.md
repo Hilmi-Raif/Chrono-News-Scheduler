@@ -1,6 +1,6 @@
-# ChronoNewsScheduler
+# Chrono-News-Scheduler
 
-ChronoNewsScheduler is a robust background job processor built with Go. Designed as an integral part of the **[ChronoNewsAPI](https://github.com/ScrKiddie/ChronoNewsAPI)** project, it handles resource-intensive tasks asynchronously to maintain a fast and responsive API.
+Chrono-News-Scheduler is a robust background job processor built with Go. Designed as an integral part of the **[Chrono-News-API](https://github.com/Hilmi-Raif/Chrono-News-API)** project, it handles resource-intensive tasks asynchronously to maintain a fast and responsive API.
 
 ## Features
 
